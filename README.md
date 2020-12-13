@@ -1,2 +1,3 @@
 # PikoEdit
-Scene Editor for PikoEdit built with cimgui
+
+The Official Editor for PikoEngine
